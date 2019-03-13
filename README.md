@@ -1,1 +1,1 @@
-# myoelectric_hand_control
+# Myoelectric Hand Control
