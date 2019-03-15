@@ -2,3 +2,4 @@ datasets/db1/
 datasets/db2/
 venv/
 notebooks/.ipynb_checkpoints/
+*.mat
